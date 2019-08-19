@@ -6,6 +6,4 @@ int main(){
 	int *q = p+50;
 	free(q);
 	return 0;
-	
-
 }
